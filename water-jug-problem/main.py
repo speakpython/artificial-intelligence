@@ -1,4 +1,4 @@
-#http://127.0.0.1:4000/artificial-intelligence/2023/03/06/water-jug-problem.html#required-libraries
+#http://speakpython.codes/artificial-intelligence/2023/03/06/water-jug-problem.html#required-libraries
 
 from math import gcd
 from collections import defaultdict
